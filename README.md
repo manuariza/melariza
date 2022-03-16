@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @melariza
-- 👀 I’m interested in product desing 
+- 👀 I’m interested in product design 
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on any new experience to create value
 
